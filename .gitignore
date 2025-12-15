@@ -1,0 +1,10 @@
+# Mage runtime data (don't commit)
+mage_data/
+Projet_Qualite/mage_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
