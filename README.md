@@ -8,9 +8,9 @@
 
 ## 目录结构
 
-- `Projet_Qualite/`：Mage 项目目录（✅需要同步到 Git）
-- `docker-compose.yml`：统一启动方式（✅需要同步到 Git）
-- `.gitignore`：忽略运行数据与本地配置（✅需要同步到 Git）
+- `Projet_Qualite/`：Mage 项目目录（需要同步到 Git）
+- `docker-compose.yml`：统一启动方式（需要同步到 Git）
+- `.gitignore`：忽略运行数据与本地配置（需要同步到 Git）
 
 > 注意：`mage_data/` 属于运行数据/缓存，不要提交到 Git。
 
